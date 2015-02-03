@@ -1,0 +1,73 @@
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\CommunityHospital.dll.config
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\CommunityHospital.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\CommunityHospital.pdb
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\Antlr3.Runtime.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\EntityFramework.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\EntityFramework.SqlServer.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\Newtonsoft.Json.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Helpers.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Mvc.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Optimization.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Razor.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\WebGrease.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\EntityFramework.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\EntityFramework.SqlServer.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Helpers.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Mvc.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Optimization.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.Razor.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\Newtonsoft.Json.xml
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\bin\Antlr3.Runtime.pdb
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.districts.resources
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.thana.resources
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.relations.resources
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.serviceCenter.resources
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.medicine.resources
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.allocateMedicine.resources
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.csproj.GenerateResource.Cache
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.dll
+C:\Users\Bhuiyan Robin\Desktop\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.pdb
+L:\CommunityHospital\CommunityHospital\bin\CommunityHospital.dll.config
+L:\CommunityHospital\CommunityHospital\bin\CommunityHospital.dll
+L:\CommunityHospital\CommunityHospital\bin\CommunityHospital.pdb
+L:\CommunityHospital\CommunityHospital\bin\Antlr3.Runtime.dll
+L:\CommunityHospital\CommunityHospital\bin\EntityFramework.dll
+L:\CommunityHospital\CommunityHospital\bin\EntityFramework.SqlServer.dll
+L:\CommunityHospital\CommunityHospital\bin\Microsoft.Web.Infrastructure.dll
+L:\CommunityHospital\CommunityHospital\bin\Newtonsoft.Json.dll
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Helpers.dll
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Mvc.dll
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Optimization.dll
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Razor.dll
+L:\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Deployment.dll
+L:\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.dll
+L:\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Razor.dll
+L:\CommunityHospital\CommunityHospital\bin\WebGrease.dll
+L:\CommunityHospital\CommunityHospital\bin\EntityFramework.xml
+L:\CommunityHospital\CommunityHospital\bin\EntityFramework.SqlServer.xml
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Helpers.xml
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Mvc.xml
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Optimization.xml
+L:\CommunityHospital\CommunityHospital\bin\System.Web.Razor.xml
+L:\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.xml
+L:\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Deployment.xml
+L:\CommunityHospital\CommunityHospital\bin\System.Web.WebPages.Razor.xml
+L:\CommunityHospital\CommunityHospital\bin\Newtonsoft.Json.xml
+L:\CommunityHospital\CommunityHospital\bin\Antlr3.Runtime.pdb
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.csprojResolveAssemblyReference.cache
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.districts.resources
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.thana.resources
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.relations.resources
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.serviceCenter.resources
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.medicine.resources
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.Migrations.allocateMedicine.resources
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.csproj.GenerateResource.Cache
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.dll
+L:\CommunityHospital\CommunityHospital\obj\Debug\CommunityHospital.pdb
