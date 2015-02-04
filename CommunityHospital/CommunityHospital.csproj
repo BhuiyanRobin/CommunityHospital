@@ -120,6 +120,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AllocateMedicineController.cs" />
+    <Compile Include="Controllers\DiseasesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MedicineController.cs" />
     <Compile Include="Controllers\ServiceCenterController.cs" />
@@ -127,32 +128,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201502020731292_districts.cs" />
-    <Compile Include="Migrations\201502020731292_districts.Designer.cs">
-      <DependentUpon>201502020731292_districts.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201502020737260_thana.cs" />
-    <Compile Include="Migrations\201502020737260_thana.Designer.cs">
-      <DependentUpon>201502020737260_thana.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201502020744388_relations.cs" />
-    <Compile Include="Migrations\201502020744388_relations.Designer.cs">
-      <DependentUpon>201502020744388_relations.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201502020750528_serviceCenter.cs" />
-    <Compile Include="Migrations\201502020750528_serviceCenter.Designer.cs">
-      <DependentUpon>201502020750528_serviceCenter.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201502020812086_medicine.cs" />
-    <Compile Include="Migrations\201502020812086_medicine.Designer.cs">
-      <DependentUpon>201502020812086_medicine.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201502020926537_allocateMedicine.cs" />
-    <Compile Include="Migrations\201502020926537_allocateMedicine.Designer.cs">
-      <DependentUpon>201502020926537_allocateMedicine.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AllocateMedicine.cs" />
+    <Compile Include="Models\Diseases.cs" />
     <Compile Include="Models\District.cs" />
     <Compile Include="Models\DistrictThanaRelationship.cs" />
     <Compile Include="Models\Medicine.cs" />
@@ -208,26 +185,11 @@
     <Content Include="Views\AllocateMedicine\Details.cshtml" />
     <Content Include="Views\AllocateMedicine\Edit.cshtml" />
     <Content Include="Views\AllocateMedicine\Index.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201502020731292_districts.resx">
-      <DependentUpon>201502020731292_districts.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201502020737260_thana.resx">
-      <DependentUpon>201502020737260_thana.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201502020744388_relations.resx">
-      <DependentUpon>201502020744388_relations.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201502020750528_serviceCenter.resx">
-      <DependentUpon>201502020750528_serviceCenter.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201502020812086_medicine.resx">
-      <DependentUpon>201502020812086_medicine.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201502020926537_allocateMedicine.resx">
-      <DependentUpon>201502020926537_allocateMedicine.cs</DependentUpon>
-    </EmbeddedResource>
+    <Content Include="Views\Diseases\Create.cshtml" />
+    <Content Include="Views\Diseases\Delete.cshtml" />
+    <Content Include="Views\Diseases\Details.cshtml" />
+    <Content Include="Views\Diseases\Edit.cshtml" />
+    <Content Include="Views\Diseases\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

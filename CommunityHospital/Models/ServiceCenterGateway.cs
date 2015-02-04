@@ -14,7 +14,9 @@ namespace CommunityHospital.Models
         public DbSet<ServiceCenter> ServiceCenters { set; get; }
         public DbSet<DistrictThanaRelationship> Relations { set; get; }
         public DbSet<Medicine> Medicines { set; get; }
-        public DbSet<AllocateMedicine> AllocateMedicines { set; get; } 
+        public DbSet<AllocateMedicine> AllocateMedicines { set; get; }
+
+        public System.Data.Entity.DbSet<CominityClinicApp.Models.Diseases> Diseases { get; set; } 
 
 
         //protected override void OnModelCreating(DbModelBuilder modelBuilder)
